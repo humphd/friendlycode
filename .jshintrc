@@ -5,22 +5,39 @@
     "browser" : true,
     "devel": true,
     "predef": [
-        "Slowparse"
+        "Slowparse",
+        "CodeMirror",
+        "Backbone",
+        "$",
+        "_",
+        "jQuery",
+        "ParsingCodeMirror",
+        "TreeInspector",
+        "ContextSensitiveHelp",
+        "Help",
+        "ErrorHelp",
+        "LivePreview",
+        "Publisher",
+        "HistoryUI",
+        "ShareUI",
+        "SocialMedia",
+        "Parachute",
+        "HactionaryData",
+        "PublishUI",
+        "TreeInspectors",
+        "HacktionaryData",
+        "lscache"
     ],
 
     // Enforcing
-    "curly": true,
     "eqeqeq": true,
-    "forin": true,
     "immed": true,
     "latedef": true,
     "noempty": true,
-    "nonew": true,
     "undef": true,
-    "trailing": true,
 
     // Relaxing
     "evil": true,
     "sub": true,
-    "strict": false
+    "newcap": false
 }
