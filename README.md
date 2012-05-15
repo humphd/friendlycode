@@ -6,7 +6,7 @@ to provide ultra-friendly real-time help to novice webmakers.
 
 To check for lint errors in the code, install node.js and npm and then:
 
-$ npm install --dev
+$ npm install -d
 
 Now you can look for lint errors like so:
 
